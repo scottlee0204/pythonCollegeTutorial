@@ -10,3 +10,10 @@ def mostCommonName(L):
     if dictionary1[element] == max:
         s.add(element)
     return s
+
+
+j = "scott"
+def hi(j):
+    print(j)
+
+print(hi(j))
